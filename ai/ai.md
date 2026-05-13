@@ -30,11 +30,23 @@ No início, os principais sistemas de IA eram baseados em regras: definia-se um 
 - [ ] *EN* Tutorial W3Schools [Machine Learning](https://www.w3schools.com/ai/default.asp)
 
 ### When to use (and when not)
->Quando usar e quando não
--
+
+Don't be fooled by the hype in the news and advertisements. You, the human, are still essential. However, if you want to remain essential, you must be better than an AI assistant. You need to be human and think as human. Only then will you be ready to use AI as a tool, as an assistant, as something to help you. Learn when it's appropriate to use AI and when it's not. Think about it: how useful would it be if I gave you a robot that goes to the gym for you?
+
+Não se deixe enganar pelo hype das notícias e dos anúncios. Você, o humano, ainda é essencial. No entanto, se quiser continuar sendo essencial, precisa ser melhor do que um assistente de IA. Você precisa ser humano e pensar como humano. Só assim estará pronto para usar a IA como uma ferramenta, como um assistente, como algo para ajudá-lo. Aprenda quando é apropriado usar IA e quando não é. Pense nisso: quão útil seria se eu lhe desse um robô que vai à academia por você?
+
+- [ ] *EN* [University graduates boo commencement speaker for calling AI 'next industrial revolution'](https://www.youtube.com/shorts/3Lh2gg0mFNI)
+- [ ] *EN* Blog One Useful Thing [15 Times to use AI, and 5 Not to](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to)
+- [ ] *EN* *PT* Video Google [When to use generative AI vs. traditional AI vs. no AI](https://www.youtube.com/watch?v=ih1sUFWAgxU)
+- [ ] *PT* Document Google [Quando usar IA generativa ou IA tradicional](https://docs.cloud.google.com/docs/ai-ml/generative-ai/generative-ai-or-traditional-ai?hl=pt-br)
+
 ### Prompt Engineering
->Engenharia de Prompt
-- [Gen AI](https://www.w3schools.com/gen_ai/index.php)
+Generative AI can't read your mind, nor figure out "what you meant". Learn how to properly write your prompts, your requests, so that it does exactly what you want.
+
+A IA generativa não consegue ler sua mente, nem descobrir "o que você quis dizer". Aprenda a escrever corretamente seus prompts, suas solicitações, para que ela faça exatamente o que você deseja.
+
+- [ ] *PT* Guide promptingguide.ai [Guia de Engenharia Prompt](https://www.promptingguide.ai/pt)
+- [ ] *EN* Guide Google [Prompt engineering: overview and guide](https://cloud.google.com/discover/what-is-prompt-engineering)
 
 ## Level 2
 **Leveraging development with AI**
