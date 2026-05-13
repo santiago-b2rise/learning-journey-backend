@@ -17,3 +17,6 @@ Habilidades e recursos para desenvolvedores backend, para poder medir e rastrear
 
 ----
 [Backend Hub Sharepoint](https://numenit.sharepoint.com/sites/VAEES-TeamSharepoint/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2FVAEES%2DTeamSharepoint%2FDocumentos%20Compartilhados%2FHubs%2FHUB%20Backend&p=true&ga=1)
+
+---
+Lançamento da trilha no dia 13 de maio 2026
