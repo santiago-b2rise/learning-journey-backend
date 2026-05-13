@@ -50,16 +50,38 @@ A IA generativa não consegue ler sua mente, nem descobrir "o que você quis diz
 
 ## Level 2
 **Leveraging development with AI**
+Before you're ready to make AI create the code, you must learn all accessory activities where it can help you in development. It can help you read and understand someone else's code, automate repetitive tasks, and even reason with you to perfect your algorithm.
+
 **Alavancando o desenvolvimento com IA**
 
+Antes de estar pronto para fazer a IA criar o código, você deve aprender todas as atividades acessórias em que ela pode ajudá-lo no desenvolvimento. Ela pode ajudá-lo a ler e entender o código de outras pessoas, automatizar tarefas repetitivas e até mesmo raciocinar com você para aperfeiçoar seu algoritmo.
+
 ### AI code assessment
->Avaliação de código IA
--
+Learn how to use the AI Assistant as your pair programmer. Ask it to summarize your code, find flaws, identify security risks, generate tests, reason whether it's the right or best way to do a task, or help you understand a large codebase that you're seeing for the first time.
+
+Aprenda a usar o Assistente de IA como seu par de programação. Peça para ele resumir seu código, encontrar falhas, identificar riscos de segurança, gerar testes, raciocinar se é a maneira certa ou melhor de realizar uma tarefa, ou ajudá-lo a entender uma base de código grande que você está vendo pela primeira vez.
+
+- [ ] *EN* Blog Medium [Effectively Using an AI Coding Assistant](https://medium.com/@csw11235/effectively-using-an-ai-coding-assistant-1e79ae2c6f6e)
+- [ ] *EN* Blog Medium [I Tested Every AI Coding Assistant: Here’s What Actually Works](https://blog.stackademic.com/i-tested-every-ai-coding-assistant-heres-what-actually-works-a87b50c78852)
+- [ ] *EN* Blog Frontend Mentor [AI coding assistants for beginners: How to learn without losing your skills](https://www.frontendmentor.io/articles/ai-coding-assistants-for-beginners)
+- [ ] *EN* Guide nx.dev [A Practical Guide on Effective AI Use - AI as Your Peer Programmer](https://nx.dev/blog/practical-guide-effective-ai-coding)
+- [ ] *PT* Blog cronapp.io [Como usar a IA como assistente em ambiente de desenvolvimento?](https://blog.cronapp.io/ia-como-assistente-ambiente-de-desenvolvimento/)
+
 ### Automation with AI
->Automação com IA
--
+Learn to identify tasks that are repetitive and how to make AI work for you. Some of these are: translation to different languages; generation of test data; creating an algorithm to generate test data with specific format; copying source files and changing its name;
+
+- *work in progress*
 
 ### Agents and Skills
+AI Agents are like robots that leverage LLMs to communicate like humans and can assist you, reason, and perform complex tasks independently. To avoid hallucinations or simply bad results, agents usually have access to Skills: specialized capabilities that can run deterministic code to produce exact outputs; they can run repeatedly so they don't consume your tokens.
+
+Agentes de IA são como robôs que utilizam LLMs para se comunicar como humanos e podem ajudá-lo, raciocinar e executar tarefas complexas de forma independente. Para evitar alucinações ou simplesmente resultados ruins, os agentes geralmente têm acesso a Skills: capacidades especializadas que podem executar código determinístico para produzir resultados exatos; elas podem ser executadas repetidamente para não consumir seus tokens.
+
+- [ ] *EN* Guide Google [O que é um Agente de IA?](https://cloud.google.com/discover/what-are-ai-agents?hl=pt-br)
+- [ ] *EN* Guide promptingguide.ai [Introduction to AI Agents](https://www.promptingguide.ai/agents/introduction)
+- [ ] *EN* Guide Claude [What are Skills?](https://support.claude.com/en/articles/12512176-what-are-skills)
+- [ ] *EN* Blog Medium [AI Agent Skills: Driving Scale & Efficiency](https://blog.devgenius.io/ai-agent-skills-driving-scale-efficiency-73841e36060c)
+- [ ] *EN* Guide Microsoft [Agent Skills](https://learn.microsoft.com/en-us/agent-framework/agents/skills?pivots=programming-language-python)
 
 ## Level 3
 **Pro coding with AI**
