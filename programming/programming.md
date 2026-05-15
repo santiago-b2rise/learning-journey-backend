@@ -26,9 +26,9 @@ It is essential to understand how data is displayed in our browser. Generally, e
 
 É essencial entender como os dados são exibidos em nosso navegador. Geralmente, toda Interface Gráfica do Usuário (GUI) atualmente é exibida usando o formato HTML/CSS. Ao aprender isso, você usará seu navegador como uma ferramenta poderosa no desenvolvimento.
 
-- [ ] *EN* W3Schools [HTML Intro](https://www.w3schools.com/html/html_intro.asp)
-- [ ] *EN* W3Schools [CSS Intro](https://www.w3schools.com/css/css_intro.asp)
-- [ ] *EN* W3Schools [HTML+CSS](https://www.w3schools.com/htmlcss/default.asp)
+- [x] *EN* W3Schools [HTML Intro](https://www.w3schools.com/html/html_intro.asp)
+- [x] *EN* W3Schools [CSS Intro](https://www.w3schools.com/css/css_intro.asp)
+- [x] *EN* W3Schools [HTML+CSS](https://www.w3schools.com/htmlcss/default.asp)
 - [ ] *PT* MDN [Iniciando com HTML](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
 - [ ] *PT* IFSC [Apostila de programação para web: HTML e CSS](https://docente.ifsc.edu.br/lara.popov/web1/apostila__html_css.pdf)
 
