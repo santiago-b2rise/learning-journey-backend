@@ -61,9 +61,9 @@ JavaScript se tornou tão comum no ambiente web que os desenvolvedores frontend,
 Database operations can be very powerful if you understand the Entities and their Relationship. The query language that consolidated over the years, SQL, is your tool to operate a database. Knowing how to create a query can be the make or break of the performance of your application.
 
 Operações com banco de dados podem ser muito poderosas se você entender as Entidades e seus Relacionamentos. A linguagem de consulta que se consolidou ao longo dos anos, SQL, é sua ferramenta para operar um banco de dados. Saber como criar uma consulta pode ser decisivo na performance da sua aplicação.
-- [ ] *EN* W3Schools [SQL Intro](https://www.w3schools.com/sql/sql_intro.asp)
-- [ ] *PT* DevMedia [Guia Completo de SQL](https://www.devmedia.com.br/guia/guia-completo-de-sql/38314)
-- [ ] *EN* Online SQL Playground [DB Fiddle](https://www.db-fiddle.com/)
+- [x] *EN* W3Schools [SQL Intro](https://www.w3schools.com/sql/sql_intro.asp)
+- [x] *PT* DevMedia [Guia Completo de SQL](https://www.devmedia.com.br/guia/guia-completo-de-sql/38314)
+- [x] *EN* Online SQL Playground [DB Fiddle](https://www.db-fiddle.com/)
 
 ### **VSCode (IDE)**
 Visual Studio Code (VSCode) is our Integrated Development Environment (IDE) of choice. Learn how to work with it, its shortctuts, the location of your tools and how to use them. Your tools must aid you in your job, not be an obstacle.
