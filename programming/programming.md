@@ -49,13 +49,13 @@ JavaScript became so common in the web environment that the frontend developers,
 
 JavaScript se tornou tão comum no ambiente web que os desenvolvedores frontend, especialistas em JS, começaram a criar seu próprio código para o backend usando também JS. Isso ficou conhecido como Server-Side JavaScript. O ambiente de execução mais conhecido e utilizado é o Node.js.
 
-- [ ] *PT* Blog RocketSeat [Dominando o Node.js](https://www.rocketseat.com.br/blog/artigos/post/dominando-node-js)
-- [ ] *PT* MDN [Express Web Framework (Node.js/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs)
-- [ ] *EN* W3Schools [Node.js Intro](https://www.w3schools.com/nodejs/nodejs_intro.asp)
-- [ ] *EN* W3Schools [What is NPM?](https://www.w3schools.com/nodejs/nodejs_npm.asp)
-- [ ] *EN* Nodejs.org [Node.js Learn](https://nodejs.org/learn/getting-started/introduction-to-nodejs)
-- [ ] *EN* Nodejs.org [An introduction to the npm package manager](https://nodejs.org/learn/getting-started/an-introduction-to-the-npm-package-manager)
-- [ ] *EN* Blog [An Absolute Beginner's Guide to Using npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm)
+- [x] *PT* Blog RocketSeat [Dominando o Node.js](https://www.rocketseat.com.br/blog/artigos/post/dominando-node-js)
+- [x] *PT* MDN [Express Web Framework (Node.js/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Express_Nodejs)
+- [x] *EN* W3Schools [Node.js Intro](https://www.w3schools.com/nodejs/nodejs_intro.asp)
+- [x] *EN* W3Schools [What is NPM?](https://www.w3schools.com/nodejs/nodejs_npm.asp)
+- [x] *EN* Nodejs.org [Node.js Learn](https://nodejs.org/learn/getting-started/introduction-to-nodejs)
+- [x] *EN* Nodejs.org [An introduction to the npm package manager](https://nodejs.org/learn/getting-started/an-introduction-to-the-npm-package-manager)
+- [x] *EN* Blog [An Absolute Beginner's Guide to Using npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm)
 
 ### **SQL**
 Database operations can be very powerful if you understand the Entities and their Relationship. The query language that consolidated over the years, SQL, is your tool to operate a database. Knowing how to create a query can be the make or break of the performance of your application.
