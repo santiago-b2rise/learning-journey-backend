@@ -70,9 +70,9 @@ Visual Studio Code (VSCode) is our Integrated Development Environment (IDE) of c
 
 O Visual Studio Code (VSCode) é o nosso Ambiente de Desenvolvimento Integrado (IDE) de escolha. Aprenda a utilizá-lo, seus atalhos, a localização das suas ferramentas e como usá-las. Suas ferramentas devem ajudar no seu trabalho, não serem um obstáculo.
 
-- [ ] *EN* Get started with Visual Studio Code [VSCode Getting Started](https://code.visualstudio.com/docs/getstarted/getting-started)
-- [ ] *PT* Blog RocketSeat [Guia de configuração do VSCode para iniciantes](https://www.rocketseat.com.br/blog/artigos/post/configurar-ambiente-vscode-iniciantes)
-- [ ] *PT* Pacote de Idioma Português Brasileiro para VS Code [Portuguese (Brazil) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR)
+- [x] *EN* Get started with Visual Studio Code [VSCode Getting Started](https://code.visualstudio.com/docs/getstarted/getting-started)
+- [x] *PT* Blog RocketSeat [Guia de configuração do VSCode para iniciantes](https://www.rocketseat.com.br/blog/artigos/post/configurar-ambiente-vscode-iniciantes)
+- [x] *PT* Pacote de Idioma Português Brasileiro para VS Code [Portuguese (Brazil) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR)
 
 ### **Git (Versionamento)**
 Git is a Distributed Version Control System. It's used to maintain source code safe from the birth to the deprecation of the software, and properly support it during the evolution. **Never code without a version control**.
