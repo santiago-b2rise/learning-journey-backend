@@ -79,12 +79,12 @@ Git is a Distributed Version Control System. It's used to maintain source code s
 
 Git é um Sistema de Controle de Versão Distribuído. Ele é usado para manter o código-fonte seguro desde o nascimento até a descontinuação do software, e para dar suporte adequado durante sua evolução. **Nunca programe sem um controle de versão**.
 
-- [ ] *EN/PT* Create an account on GitHub. Crie uma conta no [GitHub](https://github.com/?locale=pt-br)
-- [ ] *EN/PT* Request access to the Numen Org on GitHub. Solicite acesso à [Numen Org no GitHub](https://github.com/numen-dev)
-- [ ] *EN* git-scm.com [About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
-- [ ] *PT* git-scm.com [Sobre o Controle de Versão](https://git-scm.com/book/pt-br/v2/Come%c3%a7ando-Sobre-Controle-de-Vers%c3%a3o)
-- [ ] *PT* git-scm.com [O Básico do Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git)
-- [ ] *EN* W3Schools [Git](https://www.w3schools.com/git/default.asp)
+- [x] *EN/PT* Create an account on GitHub. Crie uma conta no [GitHub](https://github.com/?locale=pt-br)
+- [x] *EN/PT* Request access to the Numen Org on GitHub. Solicite acesso à [Numen Org no GitHub](https://github.com/numen-dev)
+- [x] *EN* git-scm.com [About Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- [x] *PT* git-scm.com [Sobre o Controle de Versão](https://git-scm.com/book/pt-br/v2/Come%c3%a7ando-Sobre-Controle-de-Vers%c3%a3o)
+- [x] *PT* git-scm.com [O Básico do Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git)
+- [x] *EN* W3Schools [Git](https://www.w3schools.com/git/default.asp)
 
 ### **Python**
 Python is a readable programming language, close to English, and has a large community and massive library. Lately, it has been dominant in the fields of Data Science and Artificial Intelligence. It's important to know some Python in case you're faced with mathematical applications (NumPy) or the recent Large Language Models (LLM): Transformers, LangChain, etc.. You may also face backend web frameworks, such as Django or Flask.
