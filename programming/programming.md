@@ -29,8 +29,8 @@ It is essential to understand how data is displayed in our browser. Generally, e
 - [x] *EN* W3Schools [HTML Intro](https://www.w3schools.com/html/html_intro.asp)
 - [x] *EN* W3Schools [CSS Intro](https://www.w3schools.com/css/css_intro.asp)
 - [x] *EN* W3Schools [HTML+CSS](https://www.w3schools.com/htmlcss/default.asp)
-- [ ] *PT* MDN [Iniciando com HTML](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
-- [ ] *PT* IFSC [Apostila de programação para web: HTML e CSS](https://docente.ifsc.edu.br/lara.popov/web1/apostila__html_css.pdf)
+- [x] *PT* MDN [Iniciando com HTML](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
+- [x] *PT* IFSC [Apostila de programação para web: HTML e CSS](https://docente.ifsc.edu.br/lara.popov/web1/apostila__html_css.pdf)
 
 ### **JavaScript**
 JavaScript is the programming language used by the browsers to perform operations in the web page and to communicate with the server (backend). Therefore, if you want to program, you need to have some understanding of JS.
